@@ -344,7 +344,7 @@ public class PersonServiceTest {
 Validator validate
 ```
 
-## 自定以 Validator(实用)
+## 自定义 Validator(实用)
 
 如果自带的校验注解无法满足你的需求的话，你还可以自定义实现注解。
 
